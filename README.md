@@ -2,7 +2,7 @@
 This portfolio of mine contents all my project works that I have done throughout my masters journey including university projects.
 
 
-# [Project 1: PREDICTING THE OUTCOME OF SUMO WRESTLING BOUTS] (https://github.com/saumyapanigrahi/project_codes/blob/Sumo-Wrestling-Bouts/100403842.ipynb)
+# [Project 1: PREDICTING THE OUTCOME OF SUMO WRESTLING BOUTS(https://github.com/saumyapanigrahi/project_codes/blob/Sumo-Wrestling-Bouts/100403842.ipynb)
 * The goal of this research was to create a model that could predict the outcome of sumo wrestling matches.
 * An overview of the many machine learning models or strategies utilised to make this prediction.
 * Sumo wrestlers’ wins and losses have been analysed and machine learning models were trained using historical data from 2010 to 2023.
