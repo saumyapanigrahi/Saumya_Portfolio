@@ -10,5 +10,5 @@ This portfolio of mine contents all my project works that I have done throughout
 * According to the results, the Logistic Regression train accuracy was 59.52%, while the test accuracy was 58.65%; the Decision Tree train accuracy was 55.08%, with a test accuracy of 53.69%; the k-nearest neighbors train accuracy was 65.41%, with the test accuracy 55.75% and the Random Forest Train accuracy was 57.76%, with a test accuracy of 56.45%.
 
 
-# [Project 2: RESTAURANT (FOOD HUNTER) DATA ANALYSIS USING SQL](https://github.com/saumyapanigrahi/Food_Hunter_Data_Analysis_SQL_Project_1)
+# [Project 2: RESTAURANT (FOOD HUNTER) DATA ANALYSIS: SQL](https://github.com/saumyapanigrahi/Food_Hunter_Data_Analysis_SQL_Project_1)
 * The goal of this project is to analyse the restaurant data and understanding the sales of the restaurant 
