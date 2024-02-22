@@ -21,3 +21,5 @@ This portfolio of mine contents all my project works that I have done throughout
 * The goal of this project is to analyse the restaurant data and understanding the sales of the restaurant
 
 
+# [Project 4: HR DATA ANALYSIS: POWER BI](https://github.com/saumyapanigrahi/HR_Data_Analysis/tree/main)
+* The goal of this project is to analyse the reason of employees leaving the company
